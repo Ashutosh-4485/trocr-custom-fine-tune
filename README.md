@@ -18,7 +18,6 @@ This tutorial walks through:
 
 ### Note
 Make sure to update all dataset paths, image folder locations, and any relevant configuration to suit your own directory structure and dataset format.
-Example: Change "images/sample1.jpg" to your actual image directory, and adjust paths in the notebook accordingly.
 
 ### 🙌 Contribution
 This project is part of my open-source contributions to the OCR/ML community.
